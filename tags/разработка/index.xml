@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Разработка | </title>
+    <link>https://example.com/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</link>
+      <atom:link href="https://example.com/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>Разработка</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Разработка</title>
+      <link>https://example.com/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</link>
+    </image>
+    
+    <item>
+      <title>Итоги недели: Код, учеба и семейный праздник</title>
+      <link>https://example.com/post/birthday/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/birthday/</guid>
+      <description>&lt;p&gt;Прошедшая неделя выдалась по-настоящему насыщенной и сбалансированной. Удалось совместить технические задачи, академическую нагрузку и теплое время с близкими.&lt;/p&gt;
+&lt;h3 id=&#34;-работа-над-сайтом&#34;&gt;💻 Работа над сайтом&lt;/h3&gt;
+&lt;p&gt;Основное внимание было уделено настройке этого сайта на базе шаблона &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Настроила секции &lt;strong&gt;Skills&lt;/strong&gt; (навыки) и &lt;strong&gt;Experience&lt;/strong&gt; (опыт работы).&lt;/li&gt;
+&lt;li&gt;Добавила блок &lt;strong&gt;Accomplishments&lt;/strong&gt;, где теперь отображаются мои сертификаты и достижения.&lt;/li&gt;
+&lt;li&gt;Разобралась в структуре папок Hugo и научился создавать посты через Markdown. Теперь сайт выглядит гораздо профессиональнее и отражает мой реальный бэкграунд.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-учеба-и-подготовка&#34;&gt;📚 Учеба и подготовка&lt;/h3&gt;
+&lt;p&gt;Учебный график на этой неделе был плотным:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Домашнее задание:&lt;/strong&gt; Выполнила объемный блок задач, что позволило лучше закрепить пройденный материал.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Контрольная работа:&lt;/strong&gt; Большая часть вечеров ушла на подготовку к предстоящей проверке знаний. Повторил ключевые темы и структурировал конспекты. Надеюсь, усилия оправдаются отличным результатом!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;-личное-день-рождения&#34;&gt;🎂 Личное: День рождения&lt;/h3&gt;
+&lt;p&gt;Самым ярким событием стало празднование &lt;strong&gt;дня рождения&lt;/strong&gt; в кругу семьи.
+Это была отличная «перезагрузка» — душевные разговоры, вкусный ужин и время, проведенное с самыми важными людьми. Такие моменты дают отличный заряд энергии на всю следующую рабочую неделю.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Планы на следующую неделю:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Успешно сдать контрольную работу.&lt;/li&gt;
+&lt;li&gt;Продолжить кастомизацию дизайна сайта.&lt;/li&gt;
+&lt;li&gt;Изучить расширенные возможности разметки LaTeX для будущих научных постов.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Личное |</title><link>https://example.com/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/</link><atom:link href="https://example.com/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/index.xml" rel="self" type="application/rss+xml"/><description>Личное</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url><title>Личное</title><link>https://example.com/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/</link></image><item><title>Итоги недели: Лабораторные и дорога домой</title><link>https://example.com/post/my_week/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.com/post/my_week/</guid><description>&lt;p&gt;Эта неделя пролетела как один миг. Основной фокус был на учебе, но завершилось всё максимально уютно.&lt;/p&gt;
-&lt;h3 id="учеба-марафон-лабораторных"&gt;Учеба: Марафон лабораторных&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Личное | </title>
+    <link>https://example.com/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/</link>
+      <atom:link href="https://example.com/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <description>Личное</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Личное</title>
+      <link>https://example.com/tags/%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5/</link>
+    </image>
+    
+    <item>
+      <title>Итоги недели: Код, учеба и семейный праздник</title>
+      <link>https://example.com/post/birthday/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/birthday/</guid>
+      <description>&lt;p&gt;Прошедшая неделя выдалась по-настоящему насыщенной и сбалансированной. Удалось совместить технические задачи, академическую нагрузку и теплое время с близкими.&lt;/p&gt;
+&lt;h3 id=&#34;-работа-над-сайтом&#34;&gt;💻 Работа над сайтом&lt;/h3&gt;
+&lt;p&gt;Основное внимание было уделено настройке этого сайта на базе шаблона &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Настроила секции &lt;strong&gt;Skills&lt;/strong&gt; (навыки) и &lt;strong&gt;Experience&lt;/strong&gt; (опыт работы).&lt;/li&gt;
+&lt;li&gt;Добавила блок &lt;strong&gt;Accomplishments&lt;/strong&gt;, где теперь отображаются мои сертификаты и достижения.&lt;/li&gt;
+&lt;li&gt;Разобралась в структуре папок Hugo и научился создавать посты через Markdown. Теперь сайт выглядит гораздо профессиональнее и отражает мой реальный бэкграунд.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-учеба-и-подготовка&#34;&gt;📚 Учеба и подготовка&lt;/h3&gt;
+&lt;p&gt;Учебный график на этой неделе был плотным:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Домашнее задание:&lt;/strong&gt; Выполнила объемный блок задач, что позволило лучше закрепить пройденный материал.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Контрольная работа:&lt;/strong&gt; Большая часть вечеров ушла на подготовку к предстоящей проверке знаний. Повторил ключевые темы и структурировал конспекты. Надеюсь, усилия оправдаются отличным результатом!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;-личное-день-рождения&#34;&gt;🎂 Личное: День рождения&lt;/h3&gt;
+&lt;p&gt;Самым ярким событием стало празднование &lt;strong&gt;дня рождения&lt;/strong&gt; в кругу семьи.
+Это была отличная «перезагрузка» — душевные разговоры, вкусный ужин и время, проведенное с самыми важными людьми. Такие моменты дают отличный заряд энергии на всю следующую рабочую неделю.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Планы на следующую неделю:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Успешно сдать контрольную работу.&lt;/li&gt;
+&lt;li&gt;Продолжить кастомизацию дизайна сайта.&lt;/li&gt;
+&lt;li&gt;Изучить расширенные возможности разметки LaTeX для будущих научных постов.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Итоги недели: Лабораторные и дорога домой</title>
+      <link>https://example.com/post/my_week/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/my_week/</guid>
+      <description>&lt;p&gt;Эта неделя пролетела как один миг. Основной фокус был на учебе, но завершилось всё максимально уютно.&lt;/p&gt;
+&lt;h3 id=&#34;учеба-марафон-лабораторных&#34;&gt;Учеба: Марафон лабораторных&lt;/h3&gt;
 &lt;p&gt;Почти всё время ушло на сдачу лабораторных работ. Кто учится в техническом вузе, тот знает это чувство: когда код наконец-то компилируется без ошибок, а преподаватель ставит заветный «зачет». Было непросто, местами приходилось сидеть до ночи, но главная цель достигнута — хвосты закрыты!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что помогло не сойти с ума:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -7,6 +58,11 @@
 &lt;li&gt;Кофе (много кофе).&lt;/li&gt;
 &lt;li&gt;Поддержка однокурсников.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="маленький-отпуск-поездка-домой"&gt;Маленький отпуск: Поездка домой&lt;/h3&gt;
+&lt;h3 id=&#34;маленький-отпуск-поездка-домой&#34;&gt;Маленький отпуск: Поездка домой&lt;/h3&gt;
 &lt;p&gt;После всей этой суеты лучшей наградой стала поездка домой. Есть что-то особенное в дороге, когда за окном меняются пейзажи, а ты понимаешь, что впереди — выходные без дедлайнов и домашних заданий.&lt;/p&gt;
-&lt;p&gt;Дома — это всегда про отдых, вкусную еду и возможность просто перезагрузиться перед новой неделей. Сейчас я чувствую себя гораздо бодрее и готова к новым свершениям (и новым лабам, куда же без них).&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Дома — это всегда про отдых, вкусную еду и возможность просто перезагрузиться перед новой неделей. Сейчас я чувствую себя гораздо бодрее и готова к новым свершениям (и новым лабам, куда же без них).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

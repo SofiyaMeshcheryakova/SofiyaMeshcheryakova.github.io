@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Веб-Разработка | </title>
+    <link>https://example.com/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</link>
+      <atom:link href="https://example.com/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>Веб-Разработка</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Веб-Разработка</title>
+      <link>https://example.com/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://example.com/post/razmetka/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/razmetka/</guid>
+      <description>&lt;p&gt;В эпоху избыточного форматирования и сложных визуальных редакторов (WYSIWYG), &lt;strong&gt;легковесные языки разметки&lt;/strong&gt; (LML) стали настоящим спасением для разработчиков, ученых и технических писателей.&lt;/p&gt;
+&lt;h3 id=&#34;что-такое-легковесная-разметка&#34;&gt;Что такое легковесная разметка?&lt;/h3&gt;
+&lt;p&gt;Это языки с максимально упрощенным синтаксисом. Их главная цель — сделать исходный текст документа &lt;strong&gt;читаемым для человека&lt;/strong&gt; даже без специальной обработки. Если вы видите в тексте символ &lt;code&gt;#&lt;/code&gt; перед строкой, вы интуитивно понимаете, что это заголовок. В этом и заключается суть &amp;ldquo;легкости&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;почему-это-стандарт-для-hugo-и-github&#34;&gt;Почему это стандарт для Hugo и GitHub?&lt;/h3&gt;
+&lt;p&gt;Использование таких языков, как &lt;strong&gt;Markdown&lt;/strong&gt;, в связке с генераторами статических сайтов (Hugo) дает несколько критических преимуществ:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Версионность:&lt;/strong&gt; Текстовые файлы идеально отслеживаются через Git. Вы всегда видите, какую запятую изменили.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Портативность:&lt;/strong&gt; Один и тот же файл &lt;code&gt;.md&lt;/code&gt; можно превратить в HTML-страницу, PDF-отчет или презентацию.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Фокус на контенте:&lt;/strong&gt; Вы не отвлекаетесь на выбор шрифта или цвета в процессе письма. Дизайн отделен от содержания.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;сравнительная-таблица-синтаксис-vs-результат&#34;&gt;Сравнительная таблица: Синтаксис vs Результат&lt;/h3&gt;
+&lt;p&gt;Давайте посмотрим, как одни и те же элементы выглядят в классическом HTML и в популярном Markdown.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Элемент&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Синтаксис Markdown&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Исходный HTML&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Результат в браузере&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Заголовок&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;# Заголовок&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;&amp;lt;h1&amp;gt;...&amp;lt;/h1&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Большой заголовок&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Жирный текст&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;**Текст**&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;&amp;lt;strong&amp;gt;...&amp;lt;/strong&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Текст&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Курсив&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;*Текст*&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;&amp;lt;em&amp;gt;...&amp;lt;/em&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;em&gt;Текст&lt;/em&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Ссылка&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;[Имя](url)&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;&amp;lt;a href=&amp;quot;...&amp;quot;&amp;gt;...&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Список&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;- Пункт&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;&amp;lt;ul&amp;gt;&amp;lt;li&amp;gt;...&amp;lt;/li&amp;gt;&amp;lt;/ul&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;• Пункт&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Код&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;`code`&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;&amp;lt;code&amp;gt;...&amp;lt;/code&amp;gt;&lt;/code&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;популярные-альтернативы-markdown&#34;&gt;Популярные альтернативы Markdown&lt;/h3&gt;
+&lt;p&gt;Хотя Markdown является королем простоты, существуют и другие мощные инструменты:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST):&lt;/strong&gt; Стандарт в мире Python. Он строже, чем Markdown, но гораздо лучше справляется со сложной структурой таблиц и автоматическими оглавлениями.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc:&lt;/strong&gt; Часто выбирается для написания целых книг. В нем &amp;ldquo;из коробки&amp;rdquo; встроены функции, которые в Markdown требуют плагинов (например, включение одного файла в другой или сложные математические формулы).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX:&lt;/strong&gt; Технически это полноценная издательская система, а не &amp;ldquo;легковесный&amp;rdquo; язык, но он часто упоминается в этом ряду из-за своего текстового представления формул.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;заключение&#34;&gt;Заключение&lt;/h3&gt;
+&lt;p&gt;Для большинства задач — ведения блога, написания документации или создания портфолио на &lt;strong&gt;Hugo Academic&lt;/strong&gt; — связки &lt;strong&gt;Markdown + LaTeX (для формул)&lt;/strong&gt; более чем достаточно. Это сочетание дает идеальный баланс между скоростью написания и мощностью итогового отображения.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
