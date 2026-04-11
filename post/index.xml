@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts |</title><link>https://example.com/post/</link><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url><title>Posts</title><link>https://example.com/post/</link></image><item><title>Итоги недели: Лабораторные и дорога домой</title><link>https://example.com/post/my_week/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><guid>https://example.com/post/my_week/</guid><description>&lt;p&gt;Эта неделя пролетела как один миг. Основной фокус был на учебе, но завершилось всё максимально уютно.&lt;/p&gt;
+&lt;h3 id="учеба-марафон-лабораторных"&gt;Учеба: Марафон лабораторных&lt;/h3&gt;
+&lt;p&gt;Почти всё время ушло на сдачу лабораторных работ. Кто учится в техническом вузе, тот знает это чувство: когда код наконец-то компилируется без ошибок, а преподаватель ставит заветный «зачет». Было непросто, местами приходилось сидеть до ночи, но главная цель достигнута — хвосты закрыты!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Что помогло не сойти с ума:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Четкий план на каждый день.&lt;/li&gt;
+&lt;li&gt;Кофе (много кофе).&lt;/li&gt;
+&lt;li&gt;Поддержка однокурсников.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="маленький-отпуск-поездка-домой"&gt;Маленький отпуск: Поездка домой&lt;/h3&gt;
+&lt;p&gt;После всей этой суеты лучшей наградой стала поездка домой. Есть что-то особенное в дороге, когда за окном меняются пейзажи, а ты понимаешь, что впереди — выходные без дедлайнов и домашних заданий.&lt;/p&gt;
+&lt;p&gt;Дома — это всегда про отдых, вкусную еду и возможность просто перезагрузиться перед новой неделей. Сейчас я чувствую себя гораздо бодрее и готова к новым свершениям (и новым лабам, куда же без них).&lt;/p&gt;</description></item><item><title>Основы Git</title><link>https://example.com/post/git/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://example.com/post/git/</guid><description>&lt;p&gt;Если вы когда-нибудь создавали копии папок с названиями &lt;code&gt;project_final&lt;/code&gt;, &lt;code&gt;project_final_2&lt;/code&gt;, &lt;code&gt;project_REALLY_final&lt;/code&gt;, то вам срочно нужен &lt;strong&gt;Git&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Система управления версиями позволяет не просто сохранять код, а делать «снимки» проекта в разные моменты времени. Если что-то сломалось (а это случается часто), вы всегда можете вернуться назад.&lt;/p&gt;
+&lt;h3 id="мой-личный-топ-команд-на-каждый-день"&gt;Мой личный Топ-команд на каждый день:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;git status&lt;/code&gt;&lt;/strong&gt; — ваша главная команда. Показывает, что изменилось и что «видит» Git.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;git add .&lt;/code&gt;&lt;/strong&gt; — подготовить все изменения к сохранению.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;git commit -m &amp;quot;описание&amp;quot;&lt;/code&gt;&lt;/strong&gt; — зафиксировать изменения. Старайтесь писать понятные описания, а не просто &amp;ldquo;fix&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;git push&lt;/code&gt;&lt;/strong&gt; — отправить свои труды в облако (на GitHub).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="трудности-с-которыми-я-столкнулась"&gt;Трудности, с которыми я столкнулась:&lt;/h3&gt;
+&lt;p&gt;Работа с Git — это не только &lt;code&gt;push&lt;/code&gt; и &lt;code&gt;pull&lt;/code&gt;. Иногда возникают конфликты веток или ошибки с путями (как те же &lt;code&gt;detached HEAD&lt;/code&gt; или проблемы с подмодулями). Главное помнить: &lt;strong&gt;в Git почти всё можно восстановить&lt;/strong&gt;, если не паниковать.&lt;/p&gt;
+&lt;blockquote class="border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6"&gt;
+&lt;p&gt;&lt;strong&gt;Совет:&lt;/strong&gt; Если ваш сайт на Hugo выглядит «криво», проверьте, запушили ли вы папку &lt;code&gt;public&lt;/code&gt; и не забыли ли про файл &lt;code&gt;.nojekyll&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Git — это дисциплина. Сначала кажется сложным, но через неделю вы уже не понимаете, как жили без него.&lt;/p&gt;</description></item></channel></rss>
