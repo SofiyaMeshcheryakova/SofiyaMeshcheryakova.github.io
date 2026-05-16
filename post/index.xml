@@ -5,12 +5,89 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2026 19:32:22 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Прохождение курса на Stepik</title>
+      <link>https://example.com/post/stepic/</link>
+      <pubDate>Sat, 16 May 2026 19:32:22 +0000</pubDate>
+      <guid>https://example.com/post/stepic/</guid>
+      <description>&lt;p&gt;Успешно завершила курс «Введение в Linux».&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчета в Markdown</title>
+      <link>https://example.com/post/otchet/</link>
+      <pubDate>Sat, 09 May 2026 11:04:38 +0000</pubDate>
+      <guid>https://example.com/post/otchet/</guid>
+      <description>&lt;h1 id=&#34;оформление-технических-отчетов-с-помощью-markdown&#34;&gt;Оформление технических отчетов с помощью Markdown&lt;/h1&gt;
+&lt;p&gt;Markdown — это легкий язык разметки, который позволяет сфокусироваться на содержании, а не на поиске кнопок форматирования в меню. Это идеальный инструмент для системных администраторов и инженеров.&lt;/p&gt;
+&lt;h2 id=&#34;почему-это-удобно1-скорость-пишете-текст-и-разметку-одновременно2-читаемость-файл-выглядит-понятно-даже-в-обычном-блокноте3-конвертация-легко-превращается-в-pdf-html-или-wiki-страницу&#34;&gt;Почему это удобно?1. &lt;strong&gt;Скорость&lt;/strong&gt;: Пишете текст и разметку одновременно.2. &lt;strong&gt;Читаемость&lt;/strong&gt;: Файл выглядит понятно даже в обычном Блокноте.3. &lt;strong&gt;Конвертация&lt;/strong&gt;: Легко превращается в PDF, HTML или Wiki-страницу.&lt;/h2&gt;
+&lt;p&gt;&amp;mdash;## Шпаргалка по основным элементам### 1. ЗаголовкиИспользуйте символ &lt;code&gt;#&lt;/code&gt; для создания структуры:&lt;code&gt;#&lt;/code&gt; — Главный заголовок&lt;code&gt;##&lt;/code&gt; — Раздел&lt;code&gt;###&lt;/code&gt; — Подраздел&lt;/p&gt;
+&lt;h3 id=&#34;2-списки-и-выделение-текстадля-перечисления-оборудования-или-шагов-диагностики-жирный-текст--для-ключевых-терминов-и-команд-курсив--для-пояснений-и-заметок&#34;&gt;2. Списки и выделение текстаДля перечисления оборудования или шагов диагностики:* &lt;strong&gt;Жирный текст&lt;/strong&gt; — для ключевых терминов и команд.* &lt;em&gt;Курсив&lt;/em&gt; — для пояснений и заметок.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Моноширинный шрифт&lt;/code&gt; — для IP-адресов и названий утилит.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-блоки-кода-консольный-выводрезультаты-работы-команд-например-ifconfig-или-ping-лучше-всего-помещать-в-специальные-блоки-это-сохранит-отступы-и-добавит-подсветку&#34;&gt;3. Блоки кода (Консольный вывод)Результаты работы команд (например, &lt;code&gt;ifconfig&lt;/code&gt; или &lt;code&gt;ping&lt;/code&gt;) лучше всего помещать в специальные блоки. Это сохранит отступы и добавит подсветку:&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Проверка доступности шлюза&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ping -c &lt;span class=&#34;m&#34;&gt;4&lt;/span&gt; 192.168.1.1
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;4-таблицыудобны-для-фиксации-настроек-сетевых-интерфейсов&#34;&gt;4. ТаблицыУдобны для фиксации настроек сетевых интерфейсов:&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Параметр&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Значение&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Статус&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;IPv4 Address&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;192.168.0.15&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Active&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Subnet Mask&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;255.255.255.0&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Static&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Default Gateway&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;192.168.0.1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Error&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&amp;mdash;## Полезные инструменты- &lt;strong&gt;VS Code&lt;/strong&gt; + расширение &lt;em&gt;Markdown PDF&lt;/em&gt; (для мгновенного экспорта в документ).- &lt;strong&gt;Obsidian&lt;/strong&gt; — для ведения базы знаний в этом формате.- &lt;strong&gt;Dillinger.io&lt;/strong&gt; — онлайн-редактор, если нужно быстро набросать отчет в браузере.&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+  
+  &lt;blockquote class=&#34;border-l-4 border-neutral-300 dark:border-neutral-600 pl-4 italic text-neutral-600 dark:text-neutral-400 my-6&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;Совет:&lt;/strong&gt; Используйте разделительные линии &lt;code&gt;---&lt;/code&gt;, чтобы визуально отделять разные этапы тестирования в отчете.&lt;/p&gt;
+
+  &lt;/blockquote&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Тебе помочь с автоматизацией? Могу подсказать, как сделать так, чтобы вывод команд из терминала Linux сразу сохранялся в готовый .md файл.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Итоги недели: Код, учеба и семейный праздник</title>
