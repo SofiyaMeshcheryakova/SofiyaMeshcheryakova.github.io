@@ -14,7 +14,9 @@
   <url>
     <loc>https://example.com/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2026-05-16T19:32:22+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/post/</loc><lastmod>2026-11-18T19:35:22+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/linux/</loc><lastmod>2026-11-18T19:35:22+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/stepic/</loc><lastmod>2026-05-16T19:32:22+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

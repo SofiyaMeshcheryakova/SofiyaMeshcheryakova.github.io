@@ -169,6 +169,19 @@
     </item>
     
     <item>
+      <title>Прохождение курса на Selectel</title>
+      <link>https://example.com/post/linux/</link>
+      <pubDate>Wed, 18 Nov 2026 19:35:22 +0000</pubDate>
+      <guid>https://example.com/post/linux/</guid>
+      <description>&lt;p&gt;Успешно завершила курс «Системный администратор Linux с нуля».&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Прохождение курса на Stepik</title>
       <link>https://example.com/post/stepic/</link>
       <pubDate>Sat, 16 May 2026 19:32:22 +0000</pubDate>
@@ -1374,7 +1387,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-957168432&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-328169547&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1392,7 +1405,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-957168432&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-328169547&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
