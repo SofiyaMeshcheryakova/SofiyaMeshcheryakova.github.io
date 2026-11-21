@@ -18,6 +18,14 @@
   <url>
     <loc>https://example.com/post/linux/</loc><lastmod>2026-11-18T19:35:22+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/tags/course/</loc><lastmod>2026-11-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/</loc><lastmod>2026-11-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2026-11-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/courses/selectel-course/</loc><lastmod>2026-11-18T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/post/stepic/</loc><lastmod>2026-05-16T19:32:22+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/otchet/</loc><lastmod>2026-05-09T11:04:38+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -25,8 +33,6 @@
     <loc>https://example.com/tags/hugo/</loc><lastmod>2026-04-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/markdown/</loc><lastmod>2026-04-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2026-04-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tags/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</loc><lastmod>2026-04-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -47,10 +53,6 @@
     <loc>https://example.com/tags/lifestream/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/my_week/</loc><lastmod>2026-03-20T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

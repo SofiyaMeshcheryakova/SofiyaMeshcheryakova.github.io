@@ -5,12 +5,26 @@
     <link>https://example.com/tags/course/</link>
       <atom:link href="https://example.com/tags/course/index.xml" rel="self" type="application/rss+xml" />
     <description>Course</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Course</title>
       <link>https://example.com/tags/course/</link>
     </image>
+    
+    <item>
+      <title>Прохождение курса на Selectel</title>
+      <link>https://example.com/courses/selectel-course/</link>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/courses/selectel-course/</guid>
+      <description>&lt;p&gt;Успешно завершила курс «Системный администратор Linux с нуля» на платформе Selectel.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://example.com/courses/selectel-course/featured.png&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Learn Hugo Blox in 10 minutes!</title>

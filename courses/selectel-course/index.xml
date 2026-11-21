@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Прохождение курса на Selectel | </title>
+    <link>https://example.com/courses/selectel-course/</link>
+      <atom:link href="https://example.com/courses/selectel-course/index.xml" rel="self" type="application/rss+xml" />
+    <description>Прохождение курса на Selectel</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/courses/selectel-course/featured.png</url>
+      <title>Прохождение курса на Selectel</title>
+      <link>https://example.com/courses/selectel-course/</link>
+    </image>
+    
+  </channel>
+</rss>
